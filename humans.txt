@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Alex Robertson -- Author -- @alexlrobertson
+
+# THANKS
+
+    Bundo
+
+# TECHNOLOGY COLOPHON
+
+    HTML5 Boilerplate, Normalize.css
